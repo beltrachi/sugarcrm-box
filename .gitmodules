@@ -1,0 +1,3 @@
+[submodule "sugarcrm"]
+	path = sugarcrm
+	url = git://github.com/sugarcrm/sugarcrm_dev.git
